@@ -9,7 +9,7 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate Problem Solver</h3>
+<h3 align="center">A passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilx210&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilx210" /> </p>
 
