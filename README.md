@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilx210&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilx210" /> </p>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **nikhilrathee736@gmail.com**
 
