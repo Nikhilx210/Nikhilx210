@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img width=150 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+        <img width=250 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
       </div>
       <div id="badges" align ="center">
         <a href="https://www.linkedin.com/in/nikhilrathee210">
