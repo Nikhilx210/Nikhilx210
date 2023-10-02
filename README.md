@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+        <img width=150 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
       </div>
       <div id="badges" align ="center">
         <a href="https://www.linkedin.com/in/nikhilrathee210">
